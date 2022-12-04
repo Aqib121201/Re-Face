@@ -1,2 +1,2 @@
-# Re-Face
-Hackerthon-Project  For Saudi  Government
+# face_recognition
+Repository to assist with face recognition colab notebook
